@@ -12,9 +12,10 @@ through meta-learning of self-learning programming skills
 the competitive advantage.  
 欣然面对IT技术的变革。为了竞争优势，自学掌控变化。
 
-- Deliver working software frequently, from a 
-couple of weeks to a couple of months, with a 
-preference to the shorter timescale.
+- Checking the learning perfermance frequently, from a 
+couple of days to a couple of weeks, with a 
+preference to the shorter timescale.  
+经常地检查学习效果，相隔几天或一两周，倾向于采取较短的周期。
 
 - Roles(TA/Checker/Recorder/Self-learner) must work 
 together daily throughout the course.  
