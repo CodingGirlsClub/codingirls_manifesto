@@ -52,3 +52,7 @@ emerge from self-organizing clubs.
 to become more effective, then tunes and adjusts 
 its behavior accordingly.  
 团队定期地反思如何能提高成效，并依此调整自身的举止表现。
+
+### Note
+1. how to define 「female」?
+2. how to define 「empower」?
