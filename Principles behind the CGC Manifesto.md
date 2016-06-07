@@ -6,11 +6,11 @@ We follow these principles:
 
 - Our highest priority is to *empower* the *females*
 through meta-learning of self-learning programming skills  
-我们最重要的目标，是通过赋予女性自学编程的元学习能力
+我们最重要的目标，是赋予女性自学编程的元学习能力
 
-- Welcome changing IT technologies. Self-learning harness change for 
-the competitive advantage.  
-欣然面对IT技术的变革。为了竞争优势，自学掌控变化。
+- Welcome changing IT technologies. CGC harness change for 
+the learners' competitive advantage.  
+欣然面对IT技术的变革。为了学员的竞争优势，CGC需掌控变化。
 
 - Checking the learning process frequently, from a 
 couple of days to a couple of weeks, with a 
@@ -31,7 +31,7 @@ and trust them to get the job done.
 conveying information to and within a club is face-to-face conversation.  
 不论Club内外，传递信息效果最好效率也最高的方式是「面对面的交谈」。
 
-- Learning by teaching is the primary measure of learning progress.  
+- Capable of teaching is the primary measure of learning progress.  
 「可教授她人」是学习效果的首要度量标准。
 
 - Promoting continueing learing, not based on the continuity of time and spase, by taking advantage of internet tools   
