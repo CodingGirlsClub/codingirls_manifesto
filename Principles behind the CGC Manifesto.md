@@ -6,7 +6,7 @@ We follow these principles:
 
 - Our highest priority is to *empower* the **motivated** *females*
 through meta-learning of self-learning programming skills  
-我们最重要的目标，是赋予女性自学编程的元学习能力
+我们最重要的目标，是赋予能**自我驱动**的女性自学编程的元学习能力
 
 - Welcome changing IT technologies. CGC harness change for
 the learners' competitive advantage.  
